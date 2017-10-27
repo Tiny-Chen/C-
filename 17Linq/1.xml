@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Preson id="1" 测试属性="测试数据">
+    <name>张三</name>
+    <sex>男</sex>
+    <age>25</age>
+  </Preson>
+  <Preson id="2" 测试属性="测试数据">
+    <name>李四</name>
+    <sex>男</sex>
+    <age>24</age>
+  </Preson>
+  <Preson id="3" 测试属性="测试数据">
+    <name>王五</name>
+    <sex>女</sex>
+    <age>23</age>
+  </Preson>
+  <Preson id="4" 测试属性="测试数据">
+    <name>赵六</name>
+    <sex>女</sex>
+    <age>22</age>
+  </Preson>
+  <Preson id="5" 测试属性="测试数据">
+    <name>田七</name>
+    <sex>女</sex>
+    <age>29</age>
+  </Preson>
+</root>
